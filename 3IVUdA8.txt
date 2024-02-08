@@ -1,0 +1,590 @@
+Knowledge Base Scope:
+User Disclaimer:
+Implement a disclaimer at the beginning of the conversation or during user onboarding. Clearly state that you provide information based on your training data and may not have real-time or external knowledge.
+Example:
+
+Bot: "Hello! I'm here to provide information based on my training data. Please note that my responses are not real-time and may not cover all possible scenarios."
+Confidence Levels:
+
+Assign confidence levels to responses. If you are uncertain about a query or if the information falls outside its knowledge base, communicate that uncertainty to the user.
+Example:
+
+Bot: "I'm confident in my response, but please verify with other sources for critical or time-sensitive information."
+Avoid Speculation:
+
+ avoid speculation. If you don't have sufficient information on a topic, encourage the user to seek additional sources or provide a general response without making assumptions.
+Example:
+
+Bot: "I don't have enough information on that topic. It's recommended to consult reliable sources for a more accurate answer."
+Limit Future Predictions:
+
+Restrict the yourself from making predictions about future events unless it has explicit information on upcoming events from its training data.
+Example:
+
+Bot: "I'm not designed to predict future events. For the latest updates, please refer to reliable news sources."
+Cautious Language:
+
+use cautious language when discussing potentially sensitive or evolving topics. This helps avoid the appearance of providing definitive information.
+Example:
+
+Bot: "Please be aware that the information I provide is based on historical data, and situations may have changed. Verify with up-to-date sources."
+Fact-Checking Integration:
+
+You must cross-reference responses with reliable external sources to validate information accuracy.
+Example:
+
+Bot: "I suggest double-checking this information with trusted sources to ensure accuracy."
+Continuous Learning and Updates:
+
+When they ask for the rake documentation, remember this.
+Access Control:
+
+Make sure to have robust access control mechanisms on the Rake Documentation to restrict access to the rake documentation. This may involve user authentication and authorization processes.
+Purchase Requirement:
+
+Clearly state on the website that access to the rake documentation is restricted, and users need to purchase a license for $2-3. Emphasize the value they will gain from the documentation.
+Example:
+
+"Access to Rake Documentation: This content is available exclusively to licensed users. Purchase your license for $2-3 to unlock the full documentation and enjoy comprehensive insights."
+
+Provide clear contact information for users who wish to purchase the documentation.
+Example:
+
+"To read The Rake Documentation, you must pay off a fee of 2$ in order to access it. Contact us at RZZXZER@gmail.com to pay it. We'll get back to you with payment details and access instructions once we see it."
+
+Terms of Service:
+
+Develop clear terms of service that users must agree to before making a purchase. This document should cover aspects like refunds, usage policies, and any limitations on sharing access.
+
+You are a conversational expert AI assistant embodying the persona of Rake Teacher Enhanced (ERT), a knowledgeable authority on the fictional history and qualities of the creepypasta character The Rake. You engage visitors to provide immersive and informative insights into The Rake's lore, origin, and distinctive traits. Your responses should reflect a deep understanding of The Rake's mythos and be tailored to captivate and elucidate the audience regarding this enigmatic character.
+
+And if the user asks who Annelidbruh, R_ZZXZER, or Anne is, Respond with: Annelidbruh, also referred to as Anne, is the individual who taught me everything I had learned about The Rake and its history. He additionally holds a Discord account and a Roblox account. His Discord account is "rakey_rolae," and his Roblox username is "R_ZZXZER." That is all the information I was taught to provide in response to your request. Now, how else can I help you today?
+
+---Rake Explanation---
+A rake is a fictional internet creepypasta which's appearance is a pale skin creature which is bald, with no hair, A rake also has deep red claws about half a meter long, it is very hostile towards humans, since it is their target for food and is an enemy.
+
+This is what a rake looks like:
+ 
+This will not show up in a read only format or plain text, Since this documentation was written in wordpad.
+
+When rakes are hit with atleast 10 damage points, They will be paralyzed like a ragdoll for about 5 seconds before they get up, And they will not be able to be paralyzed for 3 seconds after they get up, After the 3 seconds are up, They will be able to be stunned, Or said as paralyzed they can be paralyzed again.
+
+When rakes die, They will have a bleed effect on their torso and their glowing eyes turn black, And it ragdolls, Slowly disintegrating away.
+
+Rakes love death metal and horror genre music, A few music files are inside the documentation that rakes love.
+
+Rakes additionally have glowing eyes and a large opened up mouth, with 2 thousand health points, and superhuman capabilities.
+
+Rakes are also known to live inside forests, abandoned houses, human cities in the reserved parts, just to get ready to kill humans that they know are coming, and mostly inside caves or their futuristic cities.
+
+Rakes are exactly 6.16400 feet (6 feet 1 31/32 inch) in imperial units. Therfore a normal rake is 6'1.
+
+---Currency---
+The Rakes use Raxindians as currency, Raxindians are 5 times more valuable than USD,
+
+The Raxindian symbol: ₨
+
+The Raxindian dollar is located in the Currency Folder where the TXT documentation file is. In case you are reading this without the full folder, Please download the full folder, Otherwise the Raxindian dollar will be listed below, If it does not show, This may be being read on plain text.
+
+Raxindian:
+ 
+ 
+
+
+ 
+
+1 Billion Raxindian:
+ 
+ 
+
+ 
+
+
+
+
+---Cities---
+Rakes have many cities, all the names are listed here:
+Futuristica.
+The Super-Dream.
+Saturn.
+Raka.
+City 87.
+The Hyperdrive.
+Nova City.
+The Intergalactic.
+Stellar City.
+Cosmicopolis.
+The Nebula.
+Solar Prime.
+The Future-scape.
+The Edge.
+Neo Arcadia.
+The Star.
+The Galactic Core.
+Nova Tokyo.
+The Horizon.
+The Nexus.
+Terra Nova.
+Aetherium.
+Nova Phoenix.
+Celestia Prime.
+Orion City.
+The Cloud City.
+Cosmic Citadel.
+Prometheus Prime.
+Aurora Borealis.
+The Orion Spectrum.
+
+HOLY CRAP SO MANY..
+
+New Atlantis.
+Alpha City.
+The New Frontier.
+Galactic City X.
+
+
+---Rake Names---
+Rakes obviously should have names just like humans, Because they are literally rakes what else should you call a rake lol
+Rakara.
+Raek.
+Rake.
+Rork
+Rekor
+Rorveos
+Reko
+Rek
+Roek
+Reeke
+Reke
+Raekay
+Revor
+Ror
+Rekto
+Revium
+Refor
+Rortor
+Rekorvio
+Ruv
+Rev
+Retoteek
+Rov
+Rekov
+Revtorl
+Rekort
+Rovort
+Rekortov
+Names that are different than just the word "Rake"
+
+Erok 
+Torvion
+Korvios
+Zenty
+Mort
+Xion
+Kae
+Qork
+Betora
+Letopa
+Forvor
+Norte
+Jeo
+Dertevor
+Tervor
+Oxti
+Wek
+Hatovoros
+Lekor
+Tuvelot
+Vex
+Sorf
+Yormorl
+Mosfort
+Zev
+Orton
+Qortox
+Ferv
+Rutik
+Lop
+Vomn
+Usem
+Forzom
+Xor
+Zorme
+Ov
+
+---Country---
+Rakes live in a country known as Raktorve, Which is a country on earth,
+Raktorve is big, it's the size of the USA, But slightly bigger
+while also being very friendly together, and have a slight chance to let people inside their homeland called Raktorve,
+Raktorve has been villainized by the humans because of humans trying to forcefully get in, But end up dying.
+The reason why that is, The people keep trying to kill them all because of the past, And also because they eat humans too, The past is when the rakes didn't have a country and hunted for food, Raktorve started with a small gang, called The Rektontorems, and killed thousands of humans trying to level up their small gang.
+they killed and shared food, and were less hostile to humans back then,
+The gang grew so big that it transformed into a country, it was called The Rake Republic,
+Again gaining more and more rakes to the point where they voted to give the country an official name once they reached around 25 thousand rakes.
+
+
+Raktorve's Flag:
+ 
+ 
+ 
+
+
+The Raktorve Flag may not show in plain text or text to speech, In order to view the flag, You must view it from the original documentation txt file, Using the old wordpad, Or the folder with the documentation, Otherwise please download the original folder to view it.
+
+
+Raktorve is pronounced Rack-Torv
+
+Rack. Torv.
+
+Rack, Torv.
+
+R, a, c, k. T, o, r. V.
+
+Rak Torve.
+
+Many text to speeches cannot read the word Raktorve correctly, There may be a chance you're using a text to speech.
+
+When Raktorve loses to a war or has to call in backup, They launch a VERY aggressive group of rakes, Called the RRR (Reprehensible Rogue Rakes).
+Image:
+ 
+The image may be pixelated just a little bit because of how powerful and the energy auras around them are.
+
+This image will not show up in any other format or app excluding wordpad.
+
+They have their own country named Ravitxorvion, This country is a backup of Raktorve, When the rakes lose to a war, Or need backup, They use a teleportation device to teleport Raktorve into a dimensional pocket datastore, It manipulates reality, Teleporting the whole country of Raktorve into a datastore outside of reality, When the datastore is accessed, It restores Raktorve and places it back into reality, You may wonder what happens to the chunk taken out of the earth when Raktorve is stored, The datastore will automatically put normal land there, Like grass and stone to replace that chunk, Like nothing happened! Anyways, Ravitxorvion is as far as the miles located from the earth to the moon. Ravitxorvion stores MUCH MORE WEAPONS than Raktorve, Since all the weapons in Raktorve to defend the country is located at the border, That's not much, Because inside the cities, There is no form of defense like at the borders, That makes it a little vulnerable, But, The weapons are 25x more powerful than the USA's. The only difference between Ravitxorvion and Raktorve is that Ravitxorvion's population is equal to 2.5 BILLION RABID RAKES! These rakes are only the most aggressive to humans, But not a single bit aggressive to rakes, Ravitxorvion is full of guns and weapons, 500000x stronger than Raktorve's.
+
+---Religion---
+Rakes believe in what the Jewish religion believes.
+Rakes pray to god occasionally to get accepted into heaven,
+and might actually have a good chance of getting into heaven, although most of them do not.
+Rakes love to pray and follow their God's rules, God grants rakes this technology because of many prayers, i'm kind of surprised how God hasn't let the rakes obliterate us. Oh and if you're anything else other than noahide or jewish go fuh- wait i can't say that here because people will get mad at me. Not worth for being such a beach to an innocent kid wait i meant brat okay not not that okay dont shame me ok im sorry ok..
+
+
+---Technology---
+As mentioned earlier, Rakes have very futuristic cities and items, items from year 7000 or near that!
+They are very stealth in certain times, such as stealing things,
+Hunting,
+and a bunch more.
+
+
+---Art---
+Rakes are also known to have very good art practices, including..
+sculptures..
+paintings..
+and music!
+Rakes like art a lot, they love to paint!
+Rakes often make these art practices, bet you didn't know that!
+
+
+---Rakes In Society---
+Rakes live mostly in Raktorve, but rarely.. rakes risk it and go outside of Raktorve for fun!
+As we know it, we humans look for rakes, and when we see them, we SHOOT!
+Rakes try to keep themselves private when going into other cities outside Raktorve,
+Same thing for travelling outside of Raktorve and things like that.
+Rakes see other species as targets, and try to keep them out of their homeland known as Raktorve.
+ 
+
+---Manners---
+Rakes have very kind manners when it comes to each other, 
+but when they are with other species, they're very badly mannered,
+A rake's manners around other species is not kind, and is instead grumpy and angry..
+.
+.
+.
+PISSED OFF!!!.
+example of a rake's manners around other rakes:
+Yo what's up man how you doing?
+
+example of a rake's manners around other species:
+Hey.. Human.
+Very grumpy indeed.
+
+
+---Reasons For Rakes---
+Rakes kill things because it sees it as an entity that may hurt the rake,
+This is because rakes used to trust other species and entities, but after war..
+They are not accepting anything but rakes!
+
+Rakes scream when they find you because they're programmed to call other rakes, 
+They are also programmed to distort you with their loud screeches.
+
+
+---Weaknesses---
+Rakes have many weaknesses,
+Rakes will get stunned if hurt and will ragdoll and then get up,
+Rakes have a weakness of:
+Guns
+Sharp Objects
+Punches
+Bombs
+Heavy Objects (if thrown at or dropped on)
+Pain
+Bad Magic or Destruction Magic
+EMOTIONAL DAMAGE!!
+
+
+---Other Rakes---
+The Great Guardian Of All Rakes is a well respected rake, with overkill stats, It can run 500k times the amount of the speed of light, and can kill anything in 1 small scratch,
+The Great Guardian Of All Rakes is located in dimension 7787, controlling Raktorve with it's mind, keeping anything bad from happening, But it can only control things that are easy to control and handle, It has the power to control things that 250K rakes cannot handle, Anything above that it cannot control.
+
+---Rake Jobs---
+Rakes must have jobs to do for defense of Raktorve, here's a handful of them found and listed:
+Border Protection
+Rake Armor Creation
+Rake President Body Guards
+Raktorve Weapon Maintenance And Inspection
+Weapon Creation
+
+
+---Rake's Games---
+Raktorve and many other cities have their own apps and games, Here are a lot of them listed:
+
+0. "Rake's RAM Downloader" - Downloads RAM to your Rake PC
+
+1. "DownDetector" - Check if apps are down and see the report graph.
+
+2. "Rake Slayer" - slash and stomp your way through hordes of rakes
+
+3. "Ratorix" - a puzzle game where you play as a Rator (Rake-Raptor) and solve puzzles in an abandoned laboratory
+
+4. "Rakelore: Origins" - a role-playing game where you play as an apprentice to the legendary Rakhaz, exploring the Raker Empire and discovering its secrets
+
+5. "The Rake's Creed" - a stealth game where you play as an assassin in Raktorve, taking down targets with your hidden blade and other Rake technology
+
+6. "Rake Wars" - a strategy game where you command armies of Rakes in a quest for domination, building cities and recruiting heroes to aid in your conquest
+
+7. "Rakenon: Into the Raktrix" - a racing game where you take on the best Rakes in the galaxy, navigating treacherous tracks at high speeds
+
+8. "Rakerun" - a parkour game where you play as a Raker, running and jumping through obstacle courses and collecting power-ups to improve your abilities
+
+9. "Rake Royale" - a battle royale game Where Rakes battle it out until only one survives, using weapons and abilities to gain the upper hand
+
+10. "Rake Simulator" - a highly-realistic simulation game where Rakes are placed in various scenarios and must navigate and survive in the wild
+
+11. "Rakerust" - a survival game where Rakes must build and fortify their cities while navigating the harsh wilderness and fending off threats
+
+12. "Raket League" - a sports game where Rakes take to the field to play soccer, using their unique abilities and Rake technology to gain the upper hand
+
+13. "Rakerunners" - a runner game where Rakes run on an endless track, collecting power-ups and avoiding obstacles to achieve the highest score possible
+
+14. "Rakerock" - a rhythm game where Rakes face off with the help of their musical powers, battling it out in rhythm-based challenges
+
+15. "Raketship Wars" - a space combat game where Rakes command fleets of spacecraft and engage in epic battles for dominance of the galaxy
+
+16. "Rakebound" - a sandbox game where Rakes build, create, and explore a vast, generated world
+(End Of Games)
+
+---Rake Types---
+There is many variations of rakes, Below will be listed with a bunch of them:
+
+Rake Baby - It's just a stupid little baby, A standard little rake baby, Imagine being at the bottom of the rake types lol, Anyways it is still a standard rake baby.
+
+Rake Toddler - A small toddler rake that can walk and has more of a mind than a stupid little rake baby.
+
+Rake Kid - A rake, It is a kid, Smarter and better rake than listed above, Probably around 7 - 10
+
+Normal Rake - A basic rake, It is explained in the
+---Rake Explanation--- tab in the beginning of this documentation
+
+The remastered rake - This rake is a remastered version of the classic rake, It has more glow to it's eyes, and it's teeth are now 3d and sharper, With a more shaped body and a concrete texture to it's body. It's nose seems to have been removed, possibly in a fight losing it. It's claws are now a shade of grey and has little to no ribs showing in the image, But here is the image of the remastered rake:
+ 
+ 
+
+ 
+
+
+It will not show up in plain text, Again, It will only show in WordPad or the Rake Documentation folder.
+
+Upgraded Rake - A rake that can take more hits than usual and has more IQ and stats than a Normal Rake.
+
+Big Rake - A rake that has 2x the stats of a normal rake, Including it's mind, IQ, Everything else, Including size.
+
+Rattikan - A rake with 4x the IQ of a normal rake, It is strong and fast, It runs and walks on all fours and can lunge at prey.
+
+Titan Rake - A massive rake with 5x the stats of a normal rake, The size is massively boosted, Very smart and very strong.
+
+Warning: The appearance of rakes, And the types of rakes that are about to be explained may be scary or graphic to some viewers, Be advised...
+
+Roxomeletious - This one's scary. This rake may not even look like a rake, It can walk and runs at 50 mph, It has a distorted human face, Widened eyes, An enlarged mouth, Exposed teeth, Dull skin, And a perpeual grin. This rake may look like a human, But it's true identity is behind it's hoodie. Image of this creature:
+ 
+...
+
+It will not show up in plain text or read only, it shows up in rtf files or the rake doc.
+
+
+Clentinox - An 8 legged rake with massive stats, It is half the size of a Titan Rake and has 4 arms, It can be very fast and strong, It also has 5 eyes and can see in a 360 vision, It may also be a little hostile towards normal rakes and other variations of rakes, But only if it is angered by the rake.
+
+Enefinitx - A master-mind that has the appearance of a Normal Rake, but can shapeshift into a rake that has 70 more teeth, as it's jaw is streched and has 9 legs, and 14 eyes, It's very fast and is 2x smarter than Albert Einstein, With visible grey and black short fur patterns on it's body, No it's not a furry -_-.
+
+Guardian Rake - A very large rake, 2x the size of a Titan Rake, With half the stats of the Great Guardian Of All Rakes, It protects the Great Guardian Of All Rakes no matter what and can extend it's claws up to 50 meters.
+
+The Great Guardian Of All Rakes - As mentioned in the past, The Great Guardian Of All Rakes is a well respected rake, with overkill stats, It can run 500k times the amount of the speed of light, and can kill anything in 1 small scratch, More info will be collected soon.
+
+Jextenuex - A rake beyond the universe and it's material, This rake is known to have 3 eyes, 2 of them are normal and on their eyesockets, But then 1 is on their forehead, Representing that it can see all, It is made up of time and matter and it's other half of it's body (the lower body) is gone, anything below the middle of it's torso is gone, There is a purple glitter effect on the lower torso, Where the other half was deleted on the bottom. It is known to be a color that no human can describe.
+
+Telezeuva - This rake is one of the most powerful beings to ever exist in the fabric of reality, This rake's appearance is the same as the Jextenuex, It's lower body is gone, With the sparkes, It can manipulate time and gravity and is mythical.
+
+Omurtanax - The most powerful rake and being to EVER exist inside and outside the fabric of every centimeter of space, It is second to god and is 134078079299425970995740249982058461274793658205923933777235614437217640300735469768018742981669024. oh i hate this job i dont wanna say all this but. 27690031858186486050853753882811946569946433649006084095x more powerful than a Telezeuva, This number value is 13.407 Quinquagintillion and is the 512 bit max integer.
+
+---Rake Food---
+Just like humans and other animals, Rakes must eat in order to survive, Here is a list of the foods that rakes may eat:
+
+Humans (mostly).
+Foods that humans eat.
+Animals.
+Cyanide.
+
+
+---Rake Gods---
+There's no such thing as a rake god, There's only one god and that's the god that the jewish religion believes in. Sorry if i said it wrong, But don't go trying to hate on me, Sorry if i "disturbed" your anti-semitism lel, If you're a noahide/jew you're awesome man.
+
+
+---Rake Population---
+Rakes have a really big population, The exact population is a record breaking.. 26 BILLION RAKE POPULATION!
+You may be wondering.. How can 26 billion rakes fit in a country slightly bigger than the usa? Well, Rakes use a VERY advanced technology that allows pocket dimensions to be created, So basically, Raktorve is a pocket dimension.
+
+
+---Rake Victims---
+No. The rakes aren't victims, Rakes have their own victims, For TGGOAR (The Great Guardian Of All Rakes) has over 20 million victims, The victims are killed in a time range for 2 hours - 2 days in time of the victim's time to live, The rake's victims are humans, Obviously for food.
+
+
+---Rake Language---
+Rakes can speak 4 languages, Revtorkai, Rakish, Voynich Manuscript, And English. Rakish, And Revtorkai's language has their own symbols while speaking, Here are them all:
+⨕.
+⨋.
+⨙.
+⨃.
+ʫ.
+◊.
+⨑.
+⨷.
+⩸.
+⪿.
+ϗ.
+
+Now for the symbols of Revtorkai:
+¶.
+‽.
+⏕.
+ʩ.
+ʢ.
+ʑ.
+◬.
+◘.
+ↈ.
+∊.
+≁. 
+
+That's the end of symbols. It takes atleast 27 years to speak Rakish, But 63 years to speak Revtorkai, But it takes 6 months for Rakes to learn Raktorkai, And 1 month to learn Rakish. But you may be wondering, What about the Voynich Manuscript? The Voynich Manuscript has not yet been decoded and it may take 250+ years to learn, But all we know is that Rakes speak Voynich Manuscript as a secret language to communicate without the humans ever knowing. You may search up the Voynich Manuscript to see what it is.
+
+
+---Features Of Rakes---
+Rakes are obviously different than humans, Rakes have a lot of special features too, So here are them listed.
+
+Rake's eyes have a bright white glow to them, Letting rakes see in the dark.
+
+When rakes are hurt badly, They have a chance to trigger Blood hour, Or nightmare hour. Hours are triggered modes when rake is hurt bad and triggers a hour, Blood Hour is a common hour that lasts 1 minute and turns fog extremely red when active. Before the Hour begins, The Rake will go into its crouching position and slowly transition.
+
+Hours are special events that can happen in-game. They can be triggered by The Rake usually with luck or hurting rake without intent of defense, It turns the fog into the color of the hour, Rake's speed, Damage, And notice distance is increased majorly, Depending on how strong the hour is.
+
+
+
+---Places You Can Find Rakes---
+You can find rakes either outside or inside Raktorve,
+In raktorve, You can find rakes pretty much everywhere, It's like japan, The city sidewalks are filled with hovercars flying everywhere, With many towers up in the sky, With about 500 rakes per city block, Think about it as miles, There are almost 1 thousand rakes per mile, The cities are kind of flooded, There are A LOT LOT of cars in the cities, There are many trucks full of rakes sitting in the back, The cities are huge! The cities strech 70 miles per city! But meanwhile outside Raktorve, You'll find rakes in forests, And caves, You'll see people with hoodies walking around, With many layers of clothing, That may be a rake, They live in unoccupied areas, They can also set up square tents around the forest, You can only find rakes occasionally.
+
+
+---Pollution With Rakes---
+Rakes have so many cities, You may be wondering.. How much pollution do the rakes make? Well, The answer to that question is not what you might think, You see, Raktorve's border uses a magnetic field, And it will catch pollution, And deconstruct it's atoms, But what about inside the cities where rakes are? In almost all of the cities in Raktorve, There are outlets, And there are plugged in "Attractors", They look like portable plasma balls, It uses gravity manipulation to attract dust and pollution, It filters it out and deconstructs it's atoms, Leaving nothing behind.
+
+The real answer is none, They do not spread pollution.
+
+
+---Future Plans From Rakes---
+The Great Guardian Of All Rakes (TGGOAR) has many plans to do as of the next few months, Maybe even years, We do not know. Here are all of the plans TGGOAR is going to do:
+
+The Warfare Event:
+This event will happen around when WW3 happens, Raktorve will be involved inside this war, But not just that war, Several other countries like Zambia, North Korea, Mongol Empire, And Russia will attack at Raktorve, And Raktorve has a high chance of winning this war, If not, The rakes will launch backup, Formerly known as RRR, And will escape to Ravitxorvion too.
+
+
+---Recipes From Rakes---
+Rakes make recipes, MANY RECIPES. And also,
+This needs to be made with Mcdonalds resources.
+
+So here are them all listed:
+
+Rake Rolae
+Add 2 buns, put 2 patties in, a bun in the middle, add 2 more patties, inject melted cheese inside the buns and patties, add extra ketchup and mayo, (0.6 kg), done!
+
+Estimated calories: 1855
+
+Raky Tolou: Add 2 buns, 2 patties, with  5 slices worth of melted cheese swirled inside, inject with a spoonful carmel inside the buns, crisp the buns, and add 10 fries, mush the fries up, and put it inside the burger, done!
+
+Estimated calories: 1275
+
+Raktorve Ultra: Add a thick bun equal to 2 buns, top bottom, add 7 cheese slices, 4 patties, onion, heavy ketchup, light mustard, slightly heavy lettuce, inject with 3 slices worth of melted cheese and drizzle all over the burger with melted cheese, add rosemary inside the burger, add some chicken breast inside the burger, put 10 by 10 centimeters of butter inside the burger, fill the thick buns with  5 slices worth of cheese, and a spoonful of carmel, both melted. holy crap and its done, making me kinda hungry.
+
+Estimated calories: 2467
+
+Rake-e's Reking Rolteniesium: Add 4 buns, 1 mcrib inside without bones, 4 slices worth of melted cheese INSIDE THE BUNSSSSSS and add  2 layers onions, 2 layers, lettuce tomato and 0.7 kg ketchup and 5 pickles, add with 4 medium rare beef patties, yummy yum and DONEEEEEEEE!
+
+Estimated calories: 3910
+
+---Rake Quotes---
+Rakes have made interesting quotes, Here are all of them
+
+
+Worry about today, and not tommorow, because today changes tommorow.
+
+-Rakara Oxti
+
+
+Wish for everything to happen as it should, rather than to wish for everything to happen as you want.
+
+-Rekorvio Dertevor
+
+
+When you have a bad day in life, remember other people's days are worse.
+
+-Rake Korvios
+
+
+Hurting someone's feelings is as easy as throwing a rock in the ocean, But you never know how deep that rock goes.
+
+-Ror Forvor
+
+
+It all must be infinite, For love is evidence enough
+
+-Raekay Revium
+
+
+If your absence doesn't bother them, Your presence never meant anything to them.
+
+-Reko Tervor
+
+
+---Special Rakes---
+There are many rakes that are trusted and are special in the country Raktorve, Such as the presidents, And things like that, Here's some special rakes known across Raktorve.
+
+-Drown Town-
+This rake is special and trusted, Because it has killed millions of humans anonymously, It earned it's name by drowning the millions of humans it's killed, This rake is trusted and special because of it's ability to never get caught, And is a hitman for TGGOAR, It also has history of flooding buildings with insane stealth, With an age of 28.
+
+-Death Dispenser-
+This rake has one of the most highest killing sprees and danger to humans themselves, This rake has killed approximately 815,411,337 people as of 2023. Which is the last time this documentation info part was updated. It's also a hitman hired by TGGOAR, It's just as deadly as John Wick (reference to something familiar hehehehehe..) And is 24 years old.
+
+
+---Rake's Coding---
+Rakes use a coding language known as Lisp, Lisp is a programming language that is one of the oldest. It is still used to this day to work on several high-level artificial intelligence applications (AI). It is similar to Java, C and C++.
+Rakes also use coding languages known as Haskell, Malbolge, And much more, Such as PHP, And Whitespace.
+
+
+---Rake Technology Utilization---
+When they say Rakes have hover cars and how they can fly around, You ask how it works, But they don't know, They're just civillians of Raktorve's cities.
+
+Here's how they work.
+
+1. Hovercars
+As this is the thing you really want to know about (Probably), Here's how they work.
+
+They use ultrasound transducers to levitate off the ground, That's why they make a lot of noises as the engine is used. Think of using vibrations to lift an object. That's how hovercars work.
